@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ag30dPjC5O2e6aEv3h9gy2VDZBXPZlOqHr+NJO7WQLM=",
+  "Source": "SpiritX.API",
+  "BasePath": "_content/SpiritX.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
