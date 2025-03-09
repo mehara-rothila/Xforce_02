@@ -1,0 +1,6 @@
+@SpiritX.API_HostAddress = http://localhost:5234
+
+GET {{SpiritX.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
